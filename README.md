@@ -8,6 +8,8 @@
 onedofSVC_Lowpass_EXP2025Feb.m
 
 2）テスト（MSI等の時系列をグラフ出力）
+test1dofSVC_Simplotvariables.m
+
 3）A, f を複数計算した「メッシュグラフ」
 
 【2025年2月2日現在のメモ】
